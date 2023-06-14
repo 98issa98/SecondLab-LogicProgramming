@@ -13,7 +13,7 @@ product(2, 'microwave', electronics,55000.0).
 product(3, 'refrigerator', electronics10000.0).
 product(4, 'iron',furniture,19000.0).
 product(5, 'rug', cosmetics, 100.0).
-product(6, 'wardrobe',furniture,60000.0).
+product(6, 'couch',furniture,60000.0).
 product(7, 'wardrobe',furniture,20000.0).
 product(8, 'cooker',kitchen,5000.0).
 product(9, 'sink',kitchen,15000.0).
